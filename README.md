@@ -1,6 +1,6 @@
 # Mehdi 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBxOGY1eG90NmprYXdseXdhNHEwbnl2Z3o2dngyNDF5NnRidzJveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" alt="Server Room Pixel Art" width="300" align="right" style="margin-left: 20px; margin-right:5px; margin-bottom:5px;">
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBxOGY1eG90NmprYXdseXdhNHEwbnl2Z3o2dngyNDF5NnRidzJveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" alt="Server Room Pixel Art" width="300" align="right" style="margin-left: 20px; margin-right:5px; margin-bottom:5px;"> -->
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
